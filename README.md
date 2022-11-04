@@ -1,4 +1,4 @@
-# Student_Data_Challenge
+# Student Data Challenge
 
 The analysis and cleaning of the data resulted in several interesting discoveries. Here is some key information from the deliverables:
 
